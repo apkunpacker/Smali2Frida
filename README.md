@@ -6,4 +6,4 @@ Use Apktool or other tools to decompile dex file to .smali and use it as
 ```sh
 java Smali2Frida "/directory/to/smalifolder" >script.js
 ```
-Thanks to Kirlif for Coding It. Without His , this project can't exist
+Dirtly coded by Kirlif :)
